@@ -1,11 +1,19 @@
 {
   "name": "mean-todo",
   "version": "1.0.0",
-  "description": "",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgspears/mean_stack_exploration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgspears/mean_stack_exploration/issues"
+  },
+  "homepage": "https://github.com/tgspears/mean_stack_exploration#readme",
+  "description": ""
 }
