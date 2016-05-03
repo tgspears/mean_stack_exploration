@@ -15,5 +15,11 @@
     "url": "https://github.com/tgspears/mean_stack_exploration/issues"
   },
   "homepage": "https://github.com/tgspears/mean_stack_exploration#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "body-parser": "1.15.0",
+    "express": "4.13.4",
+    "mongoose": "4.4.14"
+  }
 }
