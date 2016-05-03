@@ -1,7 +1,5 @@
 'use strict';
 
-debugger;
-
 var express = require('express');
 var parser = require('body-parser');
 var router = require('./api');
